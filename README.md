@@ -6,3 +6,4 @@ New Branch created
 
 New feature branch added
 
+This is content from new feature branch
