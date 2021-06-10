@@ -13,3 +13,5 @@ This is again from feature branch
 This is line from feature branch to check merge conflict
 
 Completed Undo changes and committing this
+
+Checking revert working after committing
